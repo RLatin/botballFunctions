@@ -187,3 +187,12 @@ int turnRightDeg(int deg, int speed){
 		turnRight(speed, (unitsPer360Turn*percentTurn)/speed);//unitsPer360Turn:360 as ? : deg
 	}
 }
+
+
+//working on this, Lucas
+int seekmovingobject(){
+	while(int )
+	
+	
+}
+}
